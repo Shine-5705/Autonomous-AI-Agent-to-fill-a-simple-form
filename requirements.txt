@@ -1,0 +1,4 @@
+openai==1.0.0  # or openai==0.28 if sticking with the old version
+selenium
+webdriver_manager
+python-dotenv
